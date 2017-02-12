@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ontario Fishing Map</string>
+    <string name="title_activity_fishing_maps">Ontario Fishing Map</string>
+    <string name="action_settings">About Me</string>
+    <string name="title_activity_about_me">About Me</string>
+    <string name="banner_ad_unit_id">ca-app-pub-6778581968244410/4934664089</string>
+    <string name="admob_interstitial_id">ca-app-pub-6778581968244410/8427020481</string>
+
+</resources>
